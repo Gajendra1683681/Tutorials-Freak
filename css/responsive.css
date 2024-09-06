@@ -1,0 +1,45 @@
+@media only screen and (min-width:0px) and (max-width:576px){
+
+    /* .form-control{
+        display: none;
+    } */
+
+    .btn{
+        display: none;
+    }
+    data-aos{
+        display: none;
+    }
+    .range-box{
+        padding-top: 0px;
+    }
+    br{
+        display: none;
+    }
+    .demo-box{
+        width: 90%;
+        margin: auto;
+    }
+
+}
+
+@media only screen and (min-width:576px) and (max-width:992px){
+
+    .demo-box{
+        width: 45%;
+    }
+}
+
+
+
+
+
+
+
+@media only screen and (min-width:992px) {
+
+
+     .form-control{
+        display: block;
+    }
+}
